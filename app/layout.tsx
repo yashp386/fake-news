@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "Fake News Detector",
   description: "Analyze news articles to determine their credibility",
-    generator: 'v0.dev'
+    generator: 'vedant'
 }
 
 export default function RootLayout({
